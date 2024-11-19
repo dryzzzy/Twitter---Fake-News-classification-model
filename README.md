@@ -1,5 +1,6 @@
 # Twitter - Fake News classification model
 Machine learning model (based on Natural Language Processing) for classification of tweets into two categories: true information or fake news.
+Dataset comes from https://www.kaggle.com/datasets/jruvika/fake-news-detection/discussion?sort=hotness 
 
 **End Goal**
 We will be building a solution based on NLP ( Natural Language Processing).
