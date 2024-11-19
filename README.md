@@ -17,17 +17,17 @@ Our task will be to create a model that can classify text into one of two groups
 - construction of a classification model
 
 **Dataset**
-title - the title of the article,
-text - the content of the article,
-subject - thesubject of the article,
-date -date of publication,
-is_fake - information determining whether the articleis fake news.
+- title - the title of the article,
+- text - the content of the article,
+- subject - thesubject of the article,
+- date -date of publication,
+- is_fake - information determining whether the articleis fake news.
 
 **What tools will we use?**
-Scikit-learn
-Pandas
-NumPy
-Gensim (Word2Vec)
-NLTK
-SpaCy
-ydata_profiling
+- Scikit-learn
+- Pandas
+- NumPy
+- Gensim (Word2Vec)
+- NLTK
+- SpaCy
+- ydata_profiling
