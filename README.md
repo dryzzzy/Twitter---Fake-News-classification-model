@@ -33,9 +33,9 @@ The **Support Vector Machine** model achieved the highest precision (0.98) and w
 ---
 
 ## **Table of Contents**
-1. [Notebook 1 - "1_data_preprocessing"](##-Notebook-1---"1_data_preprocessing")
-2. [Notebook 2 - "2_vectors_report"](##-Notebook-2---"2_vectors_report")
-3. [Notebook 3 - "3_model_training_and_tuning"](##-Notebook-3---"3_model_training_and_tuning")
+1. [Notebook 1 - "1_data_preprocessing"](##notebook-1---1_data_preprocessing)
+2. [Notebook 2 - "2_vectors_report"](##notebook-2---2_vectors_report)
+3. [Notebook 3 - "3_model_training_and_tuning"](##notebook-3---3_model_training_and_tuning)
 
 ---
 
